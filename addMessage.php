@@ -13,4 +13,5 @@ if ($title) { //if title is not empty
 	echo "Message title cannot be empty";
 }
 ?>
+<hr/>
 <a href="listMessage.php">Back</a>
